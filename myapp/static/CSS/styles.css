@@ -1,0 +1,46 @@
+.header {
+    background-color: lightblue;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.my-container {
+    margin: auto;
+    max-width: 500px;
+    margin-top: 50px;
+    padding: 0px;
+    justify-content: center;
+    box-shadow: 0px 0px 8px rgb(201, 195, 195);
+    border-radius: 10%;
+    overflow: hidden;
+}
+
+.my-form {
+    margin: auto;
+    max-width: 500px;
+    padding: 30px;
+}
+
+.container-header {
+    text-align: center;
+    padding: 30px;
+    background-color: lightblue;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+
+.submit-button {
+    border: 1px solid lightblue;
+}
+
+.done-container {
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.icon {
+    max-width: 40px;
+    max-height: 40px;
+}
